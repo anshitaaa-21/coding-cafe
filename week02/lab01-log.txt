@@ -1,0 +1,204 @@
+    1  cd
+    2  echo $SHELL
+    3  pwd
+    4  ls
+    5  python3 --version
+    6  ls
+    7  /mnt/c/Users/Admin/Desktop
+    8  ls
+    9  ls -a
+   10  ls
+   11  ls -a
+   12  ls -l
+   13  ls
+   14  pwd
+   15  ls
+   16  pwd
+   17  ls
+   18  mkdir coding-cafe
+   19  ls
+   20  ```bash
+   21  pwd
+   22  ls
+   23  pwd
+   24  ls
+   25  mkdir /mnt/c/Users/Admin/coding-cafe/week01
+   26  ls
+   27  mkdir coding-cafe/week02
+   28  cd coding-cafe
+   29  ls
+   30  touch README.md
+   31  ls
+   32  ls -l
+   33  cd week01
+   34  mkdir notes.md
+   35  ls
+   36  man ls
+   37  clear
+   38  cdcoding-cafe
+   39  cd coding-cafe
+   40  cd week01
+   41  mkdir notes.md
+   42  cd week02
+   43  clear
+   44  cd coding-cafe
+   45  cd week02
+   46  touch notes.md
+   47  pwd
+   48  ls
+   49  ls -force
+   50  ls -Force
+   51  cd
+   52  ls
+   53  ls -Force
+   54  ```powershell
+   55  pwd
+   56  ls
+   57  pwd
+   58  ls -a
+   59  ls
+   60  pwd
+   61  ```bash
+   62  ls 
+   63  ls -a
+   64  ls -l
+   65  cd coding-cafe
+   66  cd week02
+   67  touch notes.md
+   68  ls
+   69  pwd
+   70  ls coidng-cafe/week02
+   71  ls coding-cafe/week02
+   72  cd coding-cafe
+   73  pwd
+   74  ''''bash
+   75  ls
+   76  ls -R coding-cafe
+   77  cd coding-cafe
+   78  cp README.md README-backup.md
+   79  ls
+   80  mv README-backup.md week01
+   81  ls
+   82  ls -Rcoding-cafe
+   83  ls -R coding-cafe
+   84  ls -R week01
+   85  cd week01
+   86  mv README-backup.md old-readme.md
+   87  ls -R week01
+   88  ls
+   89  rm old-readme.md
+   90  ls
+   91  echo $PATH
+   92  which python3
+   93  which pip
+   94  which ls
+   95  pyton3
+   96  cd ~/coding-cafe
+   97  python3 -m venv .venv
+   98  which python3
+   99  source .venv/bin/activate
+  100  source .venv/bin/Activate.ps1
+  101  ls
+  102  .venv\Scripts\Activate.ps1
+  103  .venv\Scripts\activate.bat
+  104  cd coding-cafe
+  105  python3 -m venv.venv
+  106  python3
+  107  python3 -m venv .venv
+  108  cd
+  109  apt install python3.14-venv
+  110  apt sudo install python3.14-venv
+  111  sudo install python3.14-venv
+  112  sudo install python3-venv
+  113  cd /mnt/c/Users/Admin/coding-cafe
+  114  sudo install python3-venv
+  115  python3 -m venv .venv
+  116  ls
+  117  ls -a
+  118  source .venv/bin/activate
+  119  bash
+  120  ls
+  121  cd
+  122  pwd
+  123  history
+  124  pwd
+  125  ls
+  126  ls -a
+  127  ls -l
+  128  mkdir coding-cafe
+  129  cd coding-cafe
+  130  mkdir week01
+  131  mkdir week02
+  132  touch README.md
+  133  cd week02
+  134  touch notes.md
+  135  ls
+  136  ls coding-cafe/week02
+  137  ls -R coding-cafe
+  138  ls coding-cafe/week02
+  139  pwd
+  140  ls
+  141  ls -a
+  142  ls -l
+  143  cd coding-cafe
+  144  ls
+  145  cd week02
+  146  ls
+  147  touch notes.md
+  148  ls
+  149  ls coding-cafe/week02
+  150  ls
+  151  cd coding-cafe
+  152  cd
+  153  pwd
+  154  ls
+  155  ls -a
+  156  ls -l
+  157  cd coding-cafe
+  158  ls
+  159  mkdir week02
+  160  ls
+  161  cd
+  162  ls
+  163  ls coding-cafe/week02
+  164  cp README.md README-backup.md
+  165  cd coding-cafe
+  166  cp README.md README-backup.md
+  167  mv README-backup.md week01
+  168  cd week01
+  169  ls
+  170  mv README-backup.md old-readme.md
+  171  ls
+  172  rm old-readme.md
+  173  ls
+  174  echo $PATH
+  175  which python3
+  176  which pip
+  177  which ls
+  178  pyton3
+  179  cd
+  180  cd ~/coding-cafe
+  181  python3 -m venv .venv
+  182  ls
+  183  ls -a
+  184  source .venv/bin/activate
+  185  which python3
+  186  pip list
+  187  pip install requests
+  188  pip list
+  189  deactivate
+  190  which python
+  191  which python3
+  192  man ls
+  193  ls -h
+  194  man man
+  195  man ls
+  196  man man
+  197  cd cod
+  198  cd cod cd cod
+  199  cd cod
+  200  history
+  201  python3
+  202  history > week02/lab01-log.txt
+  203  ls
+  204  history > week02/lab01-log.txt
